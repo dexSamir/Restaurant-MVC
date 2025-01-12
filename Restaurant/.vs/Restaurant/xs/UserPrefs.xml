@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{8E4B14F0-CF00-48E7-B8EE-470109EED741}|https">
+  <MonoDevelop.Ide.ItemProperties.Restaurant.BL FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Restaurant.DAL FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Restaurant" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Restaurant.Core FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Restaurant.UI PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+</Properties>
