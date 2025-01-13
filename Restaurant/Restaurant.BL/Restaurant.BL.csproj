@@ -6,4 +6,21 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Restaurant.DAL\Restaurant.DAL.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Services\" />
+    <None Remove="Services\Implements\" />
+    <None Remove="Services\Interfaces\" />
+    <None Remove="VM\" />
+    <None Remove="VM\Category\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Services\" />
+    <Folder Include="Services\Implements\" />
+    <Folder Include="Services\Interfaces\" />
+    <Folder Include="VM\" />
+    <Folder Include="VM\Category\" />
+  </ItemGroup>
 </Project>

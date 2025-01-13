@@ -1,0 +1,13 @@
+/Users/samirhebibov/Desktop/Restaurant-MVC/Restaurant/Restaurant.Cote/bin/Debug/net8.0/Restaurant.Core.deps.json
+/Users/samirhebibov/Desktop/Restaurant-MVC/Restaurant/Restaurant.Cote/bin/Debug/net8.0/Restaurant.Core.dll
+/Users/samirhebibov/Desktop/Restaurant-MVC/Restaurant/Restaurant.Cote/bin/Debug/net8.0/Restaurant.Core.pdb
+/Users/samirhebibov/Desktop/Restaurant-MVC/Restaurant/Restaurant.Cote/obj/Debug/net8.0/Restaurant.Core.csproj.AssemblyReference.cache
+/Users/samirhebibov/Desktop/Restaurant-MVC/Restaurant/Restaurant.Cote/obj/Debug/net8.0/Restaurant.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samirhebibov/Desktop/Restaurant-MVC/Restaurant/Restaurant.Cote/obj/Debug/net8.0/Restaurant.Core.AssemblyInfoInputs.cache
+/Users/samirhebibov/Desktop/Restaurant-MVC/Restaurant/Restaurant.Cote/obj/Debug/net8.0/Restaurant.Core.AssemblyInfo.cs
+/Users/samirhebibov/Desktop/Restaurant-MVC/Restaurant/Restaurant.Cote/obj/Debug/net8.0/Restaurant.Core.csproj.CoreCompileInputs.cache
+/Users/samirhebibov/Desktop/Restaurant-MVC/Restaurant/Restaurant.Cote/obj/Debug/net8.0/Restaurant.Core.sourcelink.json
+/Users/samirhebibov/Desktop/Restaurant-MVC/Restaurant/Restaurant.Cote/obj/Debug/net8.0/Restaurant.Core.dll
+/Users/samirhebibov/Desktop/Restaurant-MVC/Restaurant/Restaurant.Cote/obj/Debug/net8.0/refint/Restaurant.Core.dll
+/Users/samirhebibov/Desktop/Restaurant-MVC/Restaurant/Restaurant.Cote/obj/Debug/net8.0/Restaurant.Core.pdb
+/Users/samirhebibov/Desktop/Restaurant-MVC/Restaurant/Restaurant.Cote/obj/Debug/net8.0/ref/Restaurant.Core.dll

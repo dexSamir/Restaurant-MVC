@@ -1,4 +1,7 @@
-﻿namespace Restaurant.UI;
+﻿using Microsoft.EntityFrameworkCore;
+using Restaurant.DAL.Context;
+
+namespace Restaurant.UI;
 
 public class Program
 {
@@ -8,6 +11,8 @@ public class Program
 
         // Add services to the container.
         builder.Services.AddControllersWithViews();
+        builder.Services.AddDbContext<AppDbContext>(x=>
+            x.UseNpgsql(builder.Configuration.GetConnectionString("PostgreSQL")));
 
         var app = builder.Build();
 
@@ -29,6 +34,9 @@ public class Program
         app.MapControllerRoute(
             name: "default",
             pattern: "{controller=Home}/{action=Index}/{id?}");
+
+        app.MapControllerRoute(name: "areas",
+        pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}");
 
         app.Run();
     }
